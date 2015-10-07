@@ -1,2 +1,7 @@
 ¿Por qué  querías hacer siempre tus "pull" de forma manual en un lugar de que git te mantenga actualizado y en coordinación con tu repositorio remote de forma automática?
 R. para tener una versión con menos errores en modo públicos
+
+Describa las diferencias entre forks,clones y branches y di para que utilizas cada uno. 
+R. Forks: clona un repositorio de github de otra persona a nuestra cuenta.
+Clone: copía un repositorio de github a nuesta maquina local.
+Branch: Son las ramas de nuestr repositorio y deben ser usada para no altereral la versión final del proyecto. Trabajando por separado nuevo código o cambios y luego usando un mergue para incluirlas. 
