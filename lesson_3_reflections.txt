@@ -1,1 +1,2 @@
-1
+¿Por qué  querías hacer siempre tus "pull" de forma manual en un lugar de que git te mantenga actualizado y en coordinación con tu repositorio remote de forma automática?
+R. para tener una versión con menos errores en modo públicos
