@@ -1,0 +1,23 @@
+¿Qué pasa cuando incializas un repositorio?, ¿Por qué es necesario hacerlo?
+R. Se crea la carpeta .git  cuando inicializas. Es necesario para que se llever el registro de cambios cuando intentes hacer un commit. 
+
+¿Como es diferente el "staging area" de una carpeta de trabajo y de un repositorio? ¡Cual es el valor que esta ofrece?
+R. El repositorio contiene todo los archivos y carpeta del proyecto además de la carpeta .git. el stanging area solo es un área donde se identifica que archivos se van agregar el commit. 
+El valor que ofrece   
+
+¿Cómo puedes usar el "staging area" para asegurarte que tiene un commit por cambio lógico?
+R. usando gif diff --stage
+
+¿Cuáles son algunas situaciones en las que los branches te ayudarían a mantener tu historial organizado? ¿Como podría los branches ayudar?
+R. En el desarrollo de un proyecto debe existir varías ramas la master es la rama de producción solo puede contener lo que este en buen funcionamiento. Otra de desarrollo es la que se trabaja. Y existe la posibilidad de crear branch para experimentos. 
+
+¿Cómo te ayudan los diagramas a visualizar la estructura de un branch? 
+R. te permite comprender el funcionamiento de cada una de las estructura. 
+
+¿Cual es el resultado de hacer un merge de dos brances juntos? , ¿Por qué representamos en un diagrama la manera en que  hacemos esto? 
+R. juntamos funcionalidades entre ramas y se usa diagramas para entender la lógica de trabajo usada. 
+
+¿Cuales son los pro y contra del mergin automático contra hacer todo los mergin de forma manual?
+R. Pro velocidad, contra puede crear problemas en el código que costara más arreglar. 
+
+
